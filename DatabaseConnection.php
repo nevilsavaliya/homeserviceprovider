@@ -2,7 +2,7 @@
 
 error_reporting(0);
 session_start();
-$servername = "localhost";
+$servername = "0.tcp.in.ngrok.io";
 $username = "root";
 $password = "";
 $dbname = "homeserviceprovider1";
